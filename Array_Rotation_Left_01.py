@@ -1,6 +1,6 @@
 #Array Rotation left
 #Time Complexity : O(n)
-#Space Complexity : O(n)
+#Space Complexity : O(1)
 
 def LeftArrayRotation(arr, arr_size, rotate):
     #print("Rotated Array is\n", arr[rotate:] + arr[:rotate])
