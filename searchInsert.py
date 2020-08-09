@@ -1,4 +1,4 @@
-class Solution:
+class Solution: 
     def searchInsert(self, nums: List[int], target: int) -> int:  
         low, high = 0, len(nums) - 1
         
