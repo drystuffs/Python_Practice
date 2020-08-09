@@ -1,2 +1,2 @@
-# Python_Practice
-Practice Python3 programs
+# June-LeetCoding-Challenge
+June LeetCoding Challenge
